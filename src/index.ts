@@ -3,6 +3,9 @@ export { DealHeader } from "./components/deal-insights/DealHeader";
 export type { DealHeaderProps } from "./components/deal-insights/DealHeader";
 export { SimpleCard } from "./components/SimpleCard";
 
+export { DealInsights } from "./components/deal-insights/DealInsights";
+export type { DealInsightsProps } from "./components/deal-insights/DealInsights";
+
 // UI Components
 export { Button } from "./components/ui/button";
 export {

@@ -1,7 +1,7 @@
 import { DealHeader } from "./DealHeader";
 import { Deal } from "@/types";
 
-interface DealInsightsProps {
+export interface DealInsightsProps {
   deal: Deal;
 }
 
