@@ -31,7 +31,7 @@ export function DealHeader({ deal }: DealHeaderProps) {
   //   if (newDealId !== deal.dealId) {
   //     navigate(`/deals/deal-insights/${newDealId}`, { replace: true });
   //   }
-  // };
+  // };pa
 
   return (
     <Card className="bg-white shadow-sm border-slate-200">
