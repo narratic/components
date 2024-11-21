@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/index.ts","./src/main.tsx","./src/vite-env.d.ts","./src/components/CardWrapper.tsx","./src/components/SimpleCard.tsx","./src/components/ui/button.tsx","./src/components/ui/card.tsx","./src/hooks/use-toast.ts","./src/lib/utils.ts","./src/styles/global.ts"],"version":"5.6.3"}
